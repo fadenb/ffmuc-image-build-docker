@@ -1,0 +1,2 @@
+# No need to send the repo to the Docker daemon during image build
+site-ffm/
